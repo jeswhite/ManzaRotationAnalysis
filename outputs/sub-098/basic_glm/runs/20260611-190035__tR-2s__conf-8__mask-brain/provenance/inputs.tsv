@@ -1,0 +1,8 @@
+kind	run	path
+bold	modulate1	C:\ManzaRotation\Derivatives\sub-098\func\sub-098_task-modulate1_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold.nii.gz
+bold	modulate2	C:\ManzaRotation\Derivatives\sub-098\func\sub-098_task-modulate2_space-MNI152NLin2009cAsym_res-2_desc-preproc_bold.nii.gz
+events	modulate1	C:\ManzaRotation\Analysis\outputs\sub-098\basic_glm\sub-098_task-modulate1_events-feelOnly.tsv
+events	modulate2	C:\ManzaRotation\Analysis\outputs\sub-098\basic_glm\sub-098_task-modulate2_events-feelOnly.tsv
+confounds	modulate1	C:\ManzaRotation\Derivatives\sub-098\func\sub-098_task-modulate1_desc-confounds_timeseries.tsv
+confounds	modulate2	C:\ManzaRotation\Derivatives\sub-098\func\sub-098_task-modulate2_desc-confounds_timeseries.tsv
+mask	modulate1	C:\ManzaRotation\Derivatives\sub-098\func\sub-098_task-modulate1_space-MNI152NLin2009cAsym_res-2_desc-brain_mask.nii.gz

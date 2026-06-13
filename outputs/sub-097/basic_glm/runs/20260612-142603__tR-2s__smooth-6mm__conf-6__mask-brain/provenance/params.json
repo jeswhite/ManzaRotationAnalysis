@@ -1,0 +1,16 @@
+{
+  "subject": "sub-097",
+  "t_r": 2.0,
+  "smoothing_fwhm": 6.0,
+  "mask_img": "C:\\ManzaRotation\\Derivatives\\sub-097\\func\\sub-097_task-modulate1_space-MNI152NLin2009cAsym_res-2_desc-brain_mask.nii.gz",
+  "basic_confounds": [
+    "trans_x",
+    "trans_y",
+    "trans_z",
+    "rot_x",
+    "rot_y",
+    "rot_z"
+  ],
+  "run_id": "20260612-142603__tR-2s__smooth-6mm__conf-6__mask-brain",
+  "run_dir": "C:\\ManzaRotation\\Analysis\\outputs\\sub-097\\basic_glm\\runs\\20260612-142603__tR-2s__smooth-6mm__conf-6__mask-brain"
+}
