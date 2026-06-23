@@ -1,0 +1,22 @@
+# output folders
+outputs/
+
+# temp files
+temp_*.png
+
+# neuroimaging outputs
+*.nii
+*.nii.gz
+*.mgz
+*.h5
+
+# generated figures
+*.png
+*.html
+
+# notebook junk
+.ipynb_checkpoints/
+__pycache__/
+
+# editor settings
+.vscode/

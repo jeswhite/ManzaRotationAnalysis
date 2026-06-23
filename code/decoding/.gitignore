@@ -1,0 +1,9 @@
+outputs/
+*.nii
+*.nii.gz
+*.mgz
+*.h5
+.ipynb_checkpoints/
+__pycache__/
+*.html
+*.png
